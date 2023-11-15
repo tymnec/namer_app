@@ -1,16 +1,15 @@
-# namer_app
+# Simple Namer Application
 
 A new Flutter project.
 
-## Getting Started
+Random Names: (Home Page)
+![image](https://github.com/tymnec/namer_app/assets/84772872/d2b89793-05d1-4c7c-b9ee-f1919448a746)
 
-This project is a starting point for a Flutter application.
+Favorites Page: (No Favorites selected)
+![image](https://github.com/tymnec/namer_app/assets/84772872/d8def509-ef84-4143-93e0-68524668a430)
 
-A few resources to get you started if this is your first Flutter project:
+Liked Some Words: (Home Page Like Button)
+![image](https://github.com/tymnec/namer_app/assets/84772872/a24cf71b-2832-454c-87df-6024a3ae1df7)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Favorites Page: 
+![image](https://github.com/tymnec/namer_app/assets/84772872/2ba97aff-616a-4167-b02b-667aac234e90)
